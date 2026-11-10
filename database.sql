@@ -49,7 +49,7 @@ CREATE TABLE EquipmentRentals (
 
 CREATE TABLE Students ( 
     student_id INT PRIMARY KEY,
-    student_name VARCHAR(255) NOT NULL
+    student_name VARCHAR(255) 
 );
 
 CREATE TABLE Courses (
